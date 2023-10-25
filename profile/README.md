@@ -3,6 +3,7 @@
 Welcome to PyTexas! The PyTexas Foundation runs the PyTexas Conference, the PyTexas Meetup, and more. Here's where you can find us:
 
 - [2024](https://www.pytexas.org/2024)
+- [Meetup](https://pytexas.org/meetup)
 - [The Foundation site](https://www.pytexas.org)
 
   [![PyTexas](https://img.shields.io/badge/Linktree-1de9b6?logo=linktree&logoColor=1de9b6&label=Find%20us)](https://linktr.ee/pytexas) [![LinkedIn](https://img.shields.io/badge/Follow%20us-blue?logo=linkedin)
