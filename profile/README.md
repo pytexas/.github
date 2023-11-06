@@ -1,4 +1,4 @@
-## print("Hello, World")
+## print("Howdy, World")
 
 Welcome to PyTexas! The PyTexas Foundation runs the PyTexas Conference, the PyTexas Meetup, and more. Here's where you can find us:
 
