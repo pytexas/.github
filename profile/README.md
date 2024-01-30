@@ -2,7 +2,7 @@
 
 Welcome to PyTexas! The PyTexas Foundation runs the PyTexas Conference, the PyTexas Meetup, and more. Here's where you can find us:
 
-- [2024](https://www.pytexas.org/2024)
+- [2024 Conference (April 19-21, 2024](https://www.pytexas.org/2024)
 - [Meetup](https://pytexas.org/meetup)
 - [The Foundation site](https://www.pytexas.org)
 
