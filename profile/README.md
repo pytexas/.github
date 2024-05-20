@@ -2,9 +2,26 @@
 
 Welcome to PyTexas! The PyTexas Foundation runs the PyTexas Conference, the PyTexas Meetup, and more. Here's where you can find us:
 
+**Quick Links**
+- [The PyTexas Foundation](https://www.pytexas.org)
+- [Monthy Virtual Meetup](https://pytexas.org/meetup)
 - [2025 Conference (April 11 - 13, 2025)](https://www.pytexas.org/2025)
-- [Meetup](https://pytexas.org/meetup)
-- [The Foundation site](https://www.pytexas.org)
+
+## Annual Conference
+PyTexas holds an annual in-person conference for the Python community in Texas. The conference is a three day event, including tutorials, talks,
+networking, and more. This 2025 conference will be held April 11 - 13, 2025. If you'd like to speak at PyTexas, our Call for Proposals opens October 1st. 
+
+For more information, visit the [conference website](https://www.pytexas.org/2025).
+
+<p align="center">
+<img src="https://www.pytexas.org/2025/assets/images/pytexas-2025-logo-black.png" width="200">
+</p>
+
+
+## Monthly Meetup
+The PyTexas Meetup meets on the first Tuesday of the month at 8:00pm CST in the [PyTexas Discord](https://discord.gg/jNPAbcNukj)
+
+For  more information, visit [the meetup website](https://pytexas.org/meetup).
 
 ## Support the PyTexas Foundation
 Do you love attending PyTexas and want to support Python events in Texas? Check out the [Friends of PyTexas](https://www.pytexas.org/sponsorship/friends/)
