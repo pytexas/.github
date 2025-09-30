@@ -9,13 +9,14 @@ Welcome to PyTexas! The PyTexas Foundation runs the PyTexas Conference, the PyTe
 
 ## Annual Conference
 PyTexas holds an annual in-person conference for the Python community in Texas. The conference is a three day event, including tutorials, talks,
-networking, and more. This 2025 conference will be held April 11 - 13, 2025. If you'd like to speak at PyTexas, our Call for Proposals opens October 1st. 
+networking, and more. This 2025 conference will be held April 17 - 19, 2026. If you'd like to speak at PyTexas, our Call for Proposals opens October 1st. 
 
-For more information, visit the [conference website](https://www.pytexas.org/2025).
+For more information, visit the [conference website](https://www.pytexas.org/2026).
 
+<!--
 <p align="center">
 <img src="https://www.pytexas.org/2025/assets/images/pytexas-2025-logo-black.png" width="200">
-</p>
+</p> -->
 
 
 ## Monthly Meetup
